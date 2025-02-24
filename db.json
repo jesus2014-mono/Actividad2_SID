@@ -2,19 +2,19 @@
   "users": [
     {
       "id": 1,
-      "username": "Naruto",
+      "username": "Juan Gaviria",
       "state": true,
       "deck": [
-        { "value": "Naruto", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_10_vydlnz.png" }
-        { "value": "Sasuke", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_7_gf1v0m.png" },
-        { "value": "Sakura", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_a_m6v1aq.png" },
-        { "value": "Kakashi", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_j_uffgkj.png" },
-        { "value": "Jiraiya", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_2_vyfncg.png" }
+        { "value": "10", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_10_vydlnz.png" },
+        { "value": "7", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_7_gf1v0m.png" },
+        { "value": "a", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_a_m6v1aq.png" },
+        { "value": "j", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_j_uffgkj.png" },
+        { "value": "2", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_2_vyfncg.png" }
       ]
     },
     {
       "id": 2,
-      "username": "Hellsing",
+      "username": "Rogrigo Goez",
       "state": true,
       "deck": [
         { "value": "a", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_a_m6v1aq.png" },
@@ -26,7 +26,7 @@
     },
     {
       "id": 3,
-      "username": "Demon Slayer",
+      "username": "Rogrigo Goez",
       "state": true,
       "deck": [
         { "value": "j", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_j_uffgkj.png" },
@@ -38,7 +38,7 @@
     },
     {
       "id": 4,
-      "username": "My Hero Academia",
+      "username": "Chespirito",
       "state": true,
       "deck": [
         { "value": "3", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_3_jbcn5k.png" },
@@ -50,7 +50,7 @@
     },
     {
       "id": 5,
-      "username": "One Punch Man",
+      "username": "Legarda",
       "state": true,
       "deck": [
         { "value": "q", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_q_em6kqx.png" },
