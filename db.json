@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "username": "Juan Gaviria",
+      "username": "Naruto",
       "state": true,
       "deck": [
         { "value": "10", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_10_vydlnz.png" },
@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "username": "Rogrigo Goez",
+      "username": "Hellsing",
       "state": true,
       "deck": [
         { "value": "a", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_a_m6v1aq.png" },
@@ -26,7 +26,7 @@
     },
     {
       "id": 3,
-      "username": "Rogrigo Goez",
+      "username": "My Hero Academia",
       "state": true,
       "deck": [
         { "value": "j", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_j_uffgkj.png" },
@@ -38,7 +38,7 @@
     },
     {
       "id": 4,
-      "username": "Chespirito",
+      "username": "One Punch Man",
       "state": true,
       "deck": [
         { "value": "3", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_3_jbcn5k.png" },
@@ -50,7 +50,7 @@
     },
     {
       "id": 5,
-      "username": "Legarda",
+      "username": "Demon Slayer",
       "state": true,
       "deck": [
         { "value": "q", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_q_em6kqx.png" },
