@@ -17,11 +17,11 @@
       "username": "Hellsing",
       "state": true,
       "deck": [
-        { "value": "a", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_a_m6v1aq.png" },
-        { "value": "a", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_a_m6v1aq.png" },
-        { "value": "2", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_2_vyfncg.png" },
-        { "value": "6", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181259/clubs_6_wd7ra6.png" },
-        { "value": "4", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_4_tv3dfo.png" }
+        { "value": "Alucard", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740423490/Hellsingalucard_z0whbb.png" },
+        { "value": "Integra", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740423604/Integra.Hellsing.600.3669614_cwwytl.jpg" },
+        { "value": "Alexander", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740423643/who-wins-in-a-fight-v0-pdbg3at6btac1_tewiya.jpg" },
+        { "value": "Seras", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740423716/8nkotlwvqua91_yx7pje.jpg" },
+        { "value": "Walter C.", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740423948/walter-c-dornez-v0-jnfkrbipi4zc1_xtwtdf.jpg" }
       ]
     },
     {
@@ -29,11 +29,11 @@
       "username": "My Hero Academia",
       "state": true,
       "deck": [
-        { "value": "j", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_j_uffgkj.png" },
-        { "value": "j", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_j_uffgkj.png" },
-        { "value": "10", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_10_vydlnz.png" },
-        { "value": "9", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_9_l04mpr.png" },
-        { "value": "7", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_7_gf1v0m.png" }
+        { "value": "Deku", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424007/bb476afc-780d-474a-99d4-ff52ed906ae8_vrqplb.png" },
+        { "value": "Bakugo", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424052/people-who-like-bakugo-why-do-you-like-him-v0-joklk2z22vic1_kfydqp.jpg" },
+        { "value": "All Might", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424119/i-just-finished-a-custom-ps5-painting-of-all-might-let-me-v0-n9n6vwoogt4b1_olroqj.jpg" },
+        { "value": "Shigaraki", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424193/21e3df3b79589f39f45276e2deb16771_fmzzmn.jpg" },
+        { "value": "Shoto", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424295/5c74e5da9d8bde5c63937cba52615197_j0eubb.jpg" }
       ]
     },
     {
@@ -41,11 +41,11 @@
       "username": "One Punch Man",
       "state": true,
       "deck": [
-        { "value": "3", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_3_jbcn5k.png" },
-        { "value": "4", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_4_tv3dfo.png" },
-        { "value": "q", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_q_em6kqx.png" },
-        { "value": "q", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_q_em6kqx.png" },
-        { "value": "5", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181259/clubs_5_plqkpr.png" }
+        { "value": "Saitama", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424336/220px-SaitamaWikipediapage_ue5ylf.png" },
+        { "value": "Garou", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424370/d5inunkg8kq61_fvhveh.jpg" },
+        { "value": "Genos", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424484/next-character-for-a-tier-list-is-genos-one-punch-man-v0-q4vlmtg3k58a1_xgij26.jpg" },
+        { "value": "Tatsumaki", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424579/actor-tatsumaki-one-punch-man-301441_large_syvrtw.jpg" },
+        { "value": "Sonic", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424670/what-do-you-think-sonic-has-been-up-to-during-the-monster-v0-3y42ep0k3u191_qo5pnd.png" }
       ]
     },
     {
@@ -53,11 +53,11 @@
       "username": "Demon Slayer",
       "state": true,
       "deck": [
-        { "value": "q", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_q_em6kqx.png" },
-        { "value": "5", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181259/clubs_5_plqkpr.png" },
-        { "value": "8", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_8_x1tbeu.png" },
-        { "value": "6", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181259/clubs_6_wd7ra6.png" },
-        { "value": "4", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_4_tv3dfo.png" }
+        { "value": "Tanjiro", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424730/710e9c79a9ccff681caa521a2ee0ac73_qzxtfc.jpg" },
+        { "value": "Nezuko", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424781/c0b9a379b31a9b0f65cccf785ada3113_otblpe.jpg" },
+        { "value": "Inozuke", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424839/577cdd08be9e16b6a4000bbab1d82473_fgs5az.jpg" },
+        { "value": "Zenitsu", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424919/zenitsu-pics-for-pfp-or-wallpaper-v0-drogq7xbys9d1_cxwbau.png" },
+        { "value": "Muzan", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424955/rate-muzan-from-c-tier-to-s-tier-and-why-you-chose-the-tier-v0-gue71x5s68091_bhzuc8.jpg" }
       ]
     }
   ],
