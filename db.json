@@ -2,62 +2,62 @@
   "users": [
     {
       "id": 1,
-      "username": "Naruto",
+      "username": "Juan Gaviria",
       "state": true,
       "deck": [
-        { "value": "Naruto", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740420371/today-is-october-10-happy-birthday-naruto-uzumaki-btw-v0-ov6g99si9btb1_doppxj.jpg" },
-        { "value": "Sasuke", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740420413/51c8e1182c5e5bcb974fbf92362936cd_fghbbr.jpg" },
-        { "value": "Sakura", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740422612/SakuraKishimoto_ivcdid.jpg" },
-        { "value": "Kakashi", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740422674/how-strong-is-hokage-kakashi-v0-2wfwoxvyhyld1_f0rjeo.jpg" },
-        { "value": "Jiraiya", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740422709/JiraiyaNarutomanga_vqeeiu.jpg" }
+        { "value": "10", "image": "https://drive.google.com/uc?export=download&id=19xfbAottIPX_ZRUSEgkn0YI7DfGah93H" },
+        { "value": "7", "image": "https://drive.google.com/uc?export=download&id=1EMcDgB4phwUI5eHos7gFu2MEQhoRLEjx" },
+        { "value": "a", "image": "https://drive.google.com/uc?export=download&id=1Fo_PlhcJaEc0kEqIpKIqemvLSDx0XDVM" },
+        { "value": "j", "image": "https://drive.google.com/uc?export=download&id=1bkipF1m5Ll1A3EGNJcEtyFLrM0Zw5QXG" },
+        { "value": "2", "image": "https://drive.google.com/uc?export=download&id=1saXpVxxugu5eWAh4MwsC8PoVV3Uoxvzj" }
       ]
     },
     {
       "id": 2,
-      "username": "Hellsing",
+      "username": "Rogrigo Goez",
       "state": true,
       "deck": [
-        { "value": "Alucard", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740423490/Hellsingalucard_z0whbb.png" },
-        { "value": "Integra", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740423604/Integra.Hellsing.600.3669614_cwwytl.jpg" },
-        { "value": "Alexander", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740423643/who-wins-in-a-fight-v0-pdbg3at6btac1_tewiya.jpg" },
-        { "value": "Seras", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740423716/8nkotlwvqua91_yx7pje.jpg" },
-        { "value": "Walter C.", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740423948/walter-c-dornez-v0-jnfkrbipi4zc1_xtwtdf.jpg" }
+        { "value": "a", "image": "https://drive.google.com/uc?export=download&id=1Fo_PlhcJaEc0kEqIpKIqemvLSDx0XDVM" },
+        { "value": "a", "image": "https://drive.google.com/uc?export=download&id=1Fo_PlhcJaEc0kEqIpKIqemvLSDx0XDVM" },
+        { "value": "2", "image": "https://drive.google.com/uc?export=download&id=1saXpVxxugu5eWAh4MwsC8PoVV3Uoxvzj" },
+        { "value": "6", "image": "https://drive.google.com/uc?export=download&id=136JzDogTRf9A0SdyWEYYFcG0PJwgkEZ4" },
+        { "value": "4", "image": "https://drive.google.com/uc?export=download&id=1Scu_DVG4Adeso9p9Dv8pSHUa7vK8UV9s" }
       ]
     },
     {
       "id": 3,
-      "username": "My Hero Academia",
+      "username": "Rogrigo Goez",
       "state": true,
       "deck": [
-        { "value": "Deku", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424007/bb476afc-780d-474a-99d4-ff52ed906ae8_vrqplb.png" },
-        { "value": "Bakugo", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424052/people-who-like-bakugo-why-do-you-like-him-v0-joklk2z22vic1_kfydqp.jpg" },
-        { "value": "All Might", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424119/i-just-finished-a-custom-ps5-painting-of-all-might-let-me-v0-n9n6vwoogt4b1_olroqj.jpg" },
-        { "value": "Shigaraki", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424193/21e3df3b79589f39f45276e2deb16771_fmzzmn.jpg" },
-        { "value": "Shoto", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424295/5c74e5da9d8bde5c63937cba52615197_j0eubb.jpg" }
+        { "value": "j", "image": "https://drive.google.com/uc?export=download&id=1bkipF1m5Ll1A3EGNJcEtyFLrM0Zw5QXG" },
+        { "value": "j", "image": "https://drive.google.com/uc?export=download&id=1bkipF1m5Ll1A3EGNJcEtyFLrM0Zw5QXG" },
+        { "value": "10", "image": "https://drive.google.com/uc?export=download&id=19xfbAottIPX_ZRUSEgkn0YI7DfGah93H" },
+        { "value": "9", "image": "https://drive.google.com/uc?export=download&id=1Scu_DVG4Adeso9p9Dv8pSHUa7vK8UV9s" },
+        { "value": "7", "image": "https://drive.google.com/uc?export=download&id=1EMcDgB4phwUI5eHos7gFu2MEQhoRLEjx" }
       ]
     },
     {
       "id": 4,
-      "username": "One Punch Man",
+      "username": "Chespirito",
       "state": true,
       "deck": [
-        { "value": "Saitama", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424336/220px-SaitamaWikipediapage_ue5ylf.png" },
-        { "value": "Garou", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424370/d5inunkg8kq61_fvhveh.jpg" },
-        { "value": "Genos", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424484/next-character-for-a-tier-list-is-genos-one-punch-man-v0-q4vlmtg3k58a1_xgij26.jpg" },
-        { "value": "Tatsumaki", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424579/actor-tatsumaki-one-punch-man-301441_large_syvrtw.jpg" },
-        { "value": "Sonic", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424670/what-do-you-think-sonic-has-been-up-to-during-the-monster-v0-3y42ep0k3u191_qo5pnd.png" }
+        { "value": "3", "image": "https://drive.google.com/uc?export=download&id=1b3VLmhx6bo8tLYgTOUDKGI3xEcaqZ_Xn" },
+        { "value": "4", "image": "https://drive.google.com/uc?export=download&id=1Scu_DVG4Adeso9p9Dv8pSHUa7vK8UV9s" },
+        { "value": "q", "image": "https://drive.google.com/uc?export=download&id=1rnFxL0sG97WZCY9EoEQrafVv6mNWj_Vm" },
+        { "value": "q", "image": "https://drive.google.com/uc?export=download&id=1rnFxL0sG97WZCY9EoEQrafVv6mNWj_Vm" },
+        { "value": "5", "image": "https://drive.google.com/uc?export=view&id=FILE_ID_20" }
       ]
     },
     {
       "id": 5,
-      "username": "Demon Slayer",
+      "username": "Legarda",
       "state": true,
       "deck": [
-        { "value": "Tanjiro", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424730/710e9c79a9ccff681caa521a2ee0ac73_qzxtfc.jpg" },
-        { "value": "Nezuko", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424781/c0b9a379b31a9b0f65cccf785ada3113_otblpe.jpg" },
-        { "value": "Inozuke", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424839/577cdd08be9e16b6a4000bbab1d82473_fgs5az.jpg" },
-        { "value": "Zenitsu", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424919/zenitsu-pics-for-pfp-or-wallpaper-v0-drogq7xbys9d1_cxwbau.png" },
-        { "value": "Muzan", "image": "https://res.cloudinary.com/dcfseahoy/image/upload/v1740424955/rate-muzan-from-c-tier-to-s-tier-and-why-you-chose-the-tier-v0-gue71x5s68091_bhzuc8.jpg" }
+        { "value": "q", "image": "https://drive.google.com/uc?export=download&id=1rnFxL0sG97WZCY9EoEQrafVv6mNWj_Vm" },
+        { "value": "5", "image": "https://drive.google.com/uc?export=download&id=1O3v5j8TL6sAFmbGmwCYfGqiRJuqLtNdY" },
+        { "value": "8", "image": "https://drive.google.com/uc?export=download&id=13HarEe9wZe5EVNqypVrVAFQwdA3kpC80" },
+        { "value": "6", "image": "https://drive.google.com/uc?export=download&id=136JzDogTRf9A0SdyWEYYFcG0PJwgkEZ4" },
+        { "value": "4", "image": "https://drive.google.com/uc?export=download&id=1Scu_DVG4Adeso9p9Dv8pSHUa7vK8UV9s" }
       ]
     }
   ],
