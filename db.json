@@ -1,14 +1,65 @@
 {
-  "usuarios": [
+  "users": [
     {
       "id": 1,
-      "nombre": "Mono",
-      "cartas": [1, 2, 3, 4, 5]
+      "username": "Naruto",
+      "state": true,
+      "deck": [
+        { "value": "10", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_10_vydlnz.png" },
+        { "value": "7", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_7_gf1v0m.png" },
+        { "value": "a", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_a_m6v1aq.png" },
+        { "value": "j", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_j_uffgkj.png" },
+        { "value": "2", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_2_vyfncg.png" }
+      ]
     },
     {
       "id": 2,
-      "nombre": "Jesus",
-      "cartas": [6, 7, 8, 9, 10]
+      "username": "Hellsing",
+      "state": true,
+      "deck": [
+        { "value": "a", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_a_m6v1aq.png" },
+        { "value": "a", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_a_m6v1aq.png" },
+        { "value": "2", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_2_vyfncg.png" },
+        { "value": "6", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181259/clubs_6_wd7ra6.png" },
+        { "value": "4", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_4_tv3dfo.png" }
+      ]
+    },
+    {
+      "id": 3,
+      "username": "Demon Slayer",
+      "state": true,
+      "deck": [
+        { "value": "j", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_j_uffgkj.png" },
+        { "value": "j", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_j_uffgkj.png" },
+        { "value": "10", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_10_vydlnz.png" },
+        { "value": "9", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_9_l04mpr.png" },
+        { "value": "7", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_7_gf1v0m.png" }
+      ]
+    },
+    {
+      "id": 4,
+      "username": "My Hero Academia",
+      "state": true,
+      "deck": [
+        { "value": "3", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_3_jbcn5k.png" },
+        { "value": "4", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_4_tv3dfo.png" },
+        { "value": "q", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_q_em6kqx.png" },
+        { "value": "q", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_q_em6kqx.png" },
+        { "value": "5", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181259/clubs_5_plqkpr.png" }
+      ]
+    },
+    {
+      "id": 5,
+      "username": "One Punch Man",
+      "state": true,
+      "deck": [
+        { "value": "q", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_q_em6kqx.png" },
+        { "value": "5", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181259/clubs_5_plqkpr.png" },
+        { "value": "8", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_8_x1tbeu.png" },
+        { "value": "6", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181259/clubs_6_wd7ra6.png" },
+        { "value": "4", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_4_tv3dfo.png" }
+      ]
     }
-  ]
+  ],
+  "worlds": [1, 2, 3, 4, 5, 6, 7, 8]
 }
